@@ -1,0 +1,11 @@
+﻿Age,Income ($),Purchase Frequency (per month),Previous Complaints,Purchased (Target: Yes/No)
+22,20000,2,No,No
+25,25000,3,No,No
+28,30000,4,No,Yes
+30,35000,5,No,Yes
+35,40000,5,Yes,Yes
+40,50000,6,No,Yes
+45,60000,6,Yes,Yes
+50,70000,7,Yes,Yes
+55,80000,8,No,Yes
+60,90000,9,Yes,Yes
